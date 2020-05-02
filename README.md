@@ -3,9 +3,9 @@
 
 # Technology Used
 
- . HTML 5
- . CSS
- . JavaScript
- . Bootstrap 4
+## . HTML 5
+## . CSS
+## . JavaScript
+### . Bootstrap 4
 
 
